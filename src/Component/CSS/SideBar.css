@@ -1,0 +1,12 @@
+.side-content {
+  width: 254.4px;
+  height: 100vh;
+  padding: 28px 7.95px 259px 7.95px;
+  gap: 0px;
+  opacity: 0;
+  background: linear-gradient(90deg, #1e40af 0%, #9333ea 100%);
+}
+
+.side-content h1 {
+  color: white;
+}

@@ -1,0 +1,14 @@
+.main-content {
+  flex-grow: 1;
+  padding: 20px;
+  margin-top: 120px;
+}
+.btn-edit{
+  height: 30px;
+  width: 30px ;
+  margin: 2px;
+  padding: 2px;
+}
+table{
+  border-radius: 10px;
+}
