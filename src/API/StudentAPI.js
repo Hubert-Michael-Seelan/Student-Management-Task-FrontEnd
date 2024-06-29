@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:4000/students'; 
+const API_URL = 'https://student-management-task.onrender.com/students'; 
 
 export const getStudents = async () => {
     const response = await axios.get(API_URL);
